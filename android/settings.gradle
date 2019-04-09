@@ -1,0 +1,3 @@
+rootProject.name = 'acebook_2128'
+
+include ':app'
